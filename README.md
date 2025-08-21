@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-1A4C8B?style=for-the-badge&logo=minitab&logoColor=white)
