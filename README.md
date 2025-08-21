@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Apasionado por la ciencia y la tecnología, en transición hacia el análisis de datos.
 
 - Realicé investigación científica durante cuatro años, trabajando con análisis de secuencias genéticas, proteicas y estructuras moleculares 🌱. Actualmente, busco nuevos retos como freelancer en análisis de datos 🔭.  
-- Me encuentro estudiando y practicando diversas herramientas de análisis de datos, como SQL, Python, Tableau y Power BI.  
+- Me especialice en análisis de datos en Tripleten empleando herramientas como SQL, Python, Tableau y Power BI.  
 - Me encanta aprender día a día; siempre busco incorporar nuevas herramientas y perfeccionar aquellas que ya manejo.
 
 ¿Quieres contar conmigo? Puedes contactarme desde mi [LinkedIn](https://www.linkedin.com/in/alexis-martinez-rangel-biotech) 💬.
